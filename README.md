@@ -3,8 +3,7 @@ Overview
 This project demonstrates how to use MLflow for tracking, managing, and visualizing Machine Learning experiments.
 With MLflow, you can easily log parameters, metrics, artifacts, and models, enabling reproducibility and efficient model comparison.
 
-![Uploading image.png…]()
-
+https://mlflow.org/img/hero.png
 
 🚀 Features
 
