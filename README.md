@@ -1,3 +1,25 @@
+Credit Card Transaction Analysis
+
+Output 1:
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/6a41d304-7653-48ee-8f69-2f4ebd3bae3d" />
+
+Output 2:
+
+<img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/1a5a50d1-ecad-4aa2-8041-23fb9a161517" />
+
+Output 3:
+
+<img width="1903" height="1017" alt="image" src="https://github.com/user-attachments/assets/211af2f9-89b0-4bba-b08a-474ca7c85bb5" />
+
+Output 4:
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/89da3a96-bec8-4508-8d49-c77ea0c12f26" />
+
+Output 5:
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/93f7a2dd-1103-423a-8cce-55c82c7b7fe1" />
+
 Overview
 
 This project demonstrates how to use MLflow for tracking, managing, and visualizing Machine Learning experiments.
